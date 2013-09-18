@@ -15,7 +15,7 @@ Schematics and gerber files are provided for a platform containing:
 
 ## Story
 A few years ago (~2010) I was researching FPGA hardware and possible uses within computational intensive tasks.
-This hardware platform was developed, and manufactured, but unfortunately got stuck due insufficient funds when troubleshooting BGA-mounted FPGAs.
+This hardware platform was developed, and manufactured, but unfortunately got stuck due to insufficient funds when troubleshooting BGA-mounted FPGAs.
 In connection to the hardware a software platform was developed (not part of this repository).
 Eventually the goal was to have a FPGA cluster platform capable of hot-swapping and scheduling of various tasks.
 
