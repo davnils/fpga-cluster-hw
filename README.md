@@ -1,6 +1,6 @@
 # FPGA Cluster prototype hardware
 
-<picture here!>
+<img src="https://github.com/davnils/fpga-cluster-hw/raw/master/images/joined.jpg" />
 
 This repository contains prototype hardware used when exploring cluster concepts in connection to FPGAs.
 Circuit boards are four layer routed on heavily constrained dimensions in order to fit a tight budget.
@@ -8,8 +8,9 @@ Connectors and components (sensitive decoupling caps specifically) are mounted o
 
 Schematics and gerber files are provided for a platform containing:
 
-* Two Stratix II FPGAs
+* Two Altera Stratix II FPGAs
 * ARM LPC uC
+* Ethernet controller
 * Unified power supply powered by 12V ATX
 
 ## Story
